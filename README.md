@@ -1,6 +1,6 @@
 ### WAZZUP 🤠
 
-| **MY GIGANTIC SKILL TO USE THESE ROYAL GIZMOS**|                                                           |
+| |**MY GIGANTIC SKILL TO USE THESE ROYAL GIZMOS**                                                           |
 | -----------------------------------------------|---------------------------------------------------------- |
 | ✨l.a.n.g.u.a.g.e.s.✨    |![python image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) |
 | ✨o.n.c.e. i. u.s.e.d.✨  | ![django image](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) ![fastapi image](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white) ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![firebase image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black) ![swagger image](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white) |
