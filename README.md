@@ -23,7 +23,7 @@
 
 ![macos image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white) 👈 I LIKE
 
-So many other stuff I've ever used, tried or experienced during study or life: ML, Mobile, Backend, Frontend, hence for now I just want to know more ![scala image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) and probably wanna become Data Engineer.
+<!-- So many other stuff I've ever used, tried or experienced during study or life: ML, Mobile, Backend, Frontend, hence for now I just want to know more ![scala image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) and probably wanna become Data Engineer. -->
 
 ✨Additionally I finished the [School of Programming MSHP](https://informatics.ru/) and [Yandex Backend Development School](https://academy.yandex.ru/schools/backend)!✨
 
