@@ -28,8 +28,9 @@
 ✨Additionally I finished the [School of Programming MSHP](https://informatics.ru/) and [Yandex Backend Development School](https://academy.yandex.ru/schools/backend)!✨
 
 <!-- [![leetcode image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/kot_mapku3/)  -->
-[![linkedin image]([https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white))](https://www.linkedin.com/in/aalexren/)
+[![linkedin image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aalexren/)
 [![mail image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aachernitsa@gmail.com)
+[![telegram image](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aalexren)
 
 <!--
 **aalexren/aalexren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
