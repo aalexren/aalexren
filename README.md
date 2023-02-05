@@ -25,7 +25,10 @@
 
 So many other stuff I've ever used, tried or experienced during study or life: ML, Mobile, Backend, Frontend, hence for now I just want to know more ![scala image](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white) and probably wanna become Data Engineer.
 
-[![leetcode image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/kot_mapku3/) [![mail image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aachernitsa@gmail.com)
+✨Additionally I finished the [School of Programming MSHP](https://informatics.ru/) and [Yandex Backend Development School](https://academy.yandex.ru/schools/backend)!✨
+
+<!-- [![leetcode image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/kot_mapku3/)  -->
+[![mail image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aachernitsa@gmail.com)
 
 <!--
 **aalexren/aalexren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
