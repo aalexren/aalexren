@@ -15,7 +15,7 @@
 
 ![python image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) 👈 I WRITE IN  
 
-![postgresql image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 👈 I WORKED WITH  
+![postgresql image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 👈 I WORKS WITH  
 
 ![docker image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 👈 I PLEASANTLY SURPRISED BY
 
